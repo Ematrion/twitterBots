@@ -1,0 +1,57 @@
+
+
+
+
+{
+     "created_at": "Thu Jun 06 01:00:12 +0000 2019",
+     "user": {
+         "contributors_enabled": false,
+         "created_at": "Fri Jan 16 20:37:03 +0000 2009",
+         "default_profile": false,
+         "default_profile_image": false,
+         "description": "The official feed of LexisNexis\u00ae, a leading global provider of legal research & workflow solutions. We\u2019re
+here to help you 24/7 at 1-800-543-6862.",
+         "entities": {
+             "description": {
+                 "urls": []
+             }
+            },
+
+            "favourites_count": 2429,
+            "follow_request_sent": false,
+            "followers_count": 55512,
+            "following": false,
+            "friends_count": 11725,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 19084210,
+            "id_str": "19084210",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 1366,
+            "location": "New York, NY",
+            "name": "LexisNexis",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/19084210/1556552313",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1099053479891529731/h5ElzTQk_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099053479891529731/h5ElzTQk_normal.png",
+            "profile_link_color": "B50428",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E3DADA",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "LexisNexis",
+            "statuses_count": 57015,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": true
+        }
+    }
