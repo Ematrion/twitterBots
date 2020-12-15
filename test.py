@@ -47,19 +47,4 @@ for exp in experiences:
     dweka[exp[2]] =clusters
 
 dweka['class'] = df['label']
-print(dweka.shape)
-
-print(dweka.head())
-pt.makeWekaFile('test', dweka)
-
-
-
-
-'''
-# Compute class border/thresholds for every used features
-for col in df.columns:
-    print(col)
-    #print(valuelimit.linear(df[col], 5))
-    #print(valuelimit.uniform(df[col], 5))
-    print(valuelimit.cMeans(df[col], 5))
-'''
+pt.makeWekaFile(name1, dweka)
